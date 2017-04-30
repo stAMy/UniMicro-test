@@ -1,0 +1,24 @@
+
+
+Program laget av Bojar Laci-Thomassen.
+
+
+
+Hei!
+
+Jeg tenkte jeg ville si et par ting i forbindelse med programmet jeg har laget:
+
+1. For å kunne teste det slik det er akkurat nå, så må man trykke på de 5 forskjellige knappene i toppen fra venstre mot høyre for å motta authentication, etc. 
+2. Når alt er klikket riktig så skal listen over databasen komme opp med forskjellige knapper, hvor legge til ny kontakt er i bunnen.
+3. Dessverre har jeg ikke fått laget en custom callback metode som gjør at siden refreshes automatisk, så for å få den oppdaterte siden så må man trykke f5 og trykke knappene på nytt...
+4. Bortsett fra punkt 3, så funker det å legge til å vise alle brukere, ny bruker, slette bruker og redigere brukere. 
+
+
+
+PS: I databasen deres fikk jeg en feil da det passerte litt over 500 unike ID-er. I listen vil dere se at det går til 522, men dette er da ikke fra 1 og alle, til og med 522, men med hull underveis.
+Under Ole Brum vil dere se jeg har lagt til Tigergutt, og neders ligger da Nasse og Tussi. Petter får komme en annen dag.
+
+
+
+
+Mvh Bojar Laci-Thomassen
